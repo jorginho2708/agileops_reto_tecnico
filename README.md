@@ -1,4 +1,4 @@
-# agileops_reto_tecnico
+# agileops_reto_tecnico Jorginho Aguilar Castillo
 Guía para la ejecución de pasos reto Técnico
 Se creo un menú en shell scripting con el fin de simplificar las descargas de las imagenes docker y su construccion misma para el reto tecnico.
 •	Se debe descargar el bashero en un SO con distribución linux que se encuentra dentro del github
