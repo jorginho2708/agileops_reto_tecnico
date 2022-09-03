@@ -2,7 +2,7 @@
 Guía para la ejecución de pasos reto Técnico
 Se creo un menú en shell scripting con el fin de simplificar las descargas de las imagenes docker y su construccion misma para el reto tecnico.
 •	Se debe descargar el bashero en un SO con distribución linux que se encuentra dentro del github
-https://github.com/luisevl2020/AgileOps/blob/main/reto_tecnico_kyndryl.sh
+https://github.com/jorginho2708/agileops_reto_tecnico
  
 •	y brindarle permisos al bashero con el siguiente commando:
 “chmod 777 reto_tecnico_jorginho.sh”
