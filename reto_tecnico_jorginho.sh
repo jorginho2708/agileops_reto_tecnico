@@ -1,6 +1,5 @@
 #!/bin/bash
 
-echo -e "Tener en cuenta que el backend ya lo he dockerizado y convertido en imagen"
 echo -e "Se empezara a descagar las imagenes contenerizadas para el reto tecnico Backend - NGINX - POSTGRES"
 docker pull jorginho2708/nginx_reto_tecnico:latest
 docker pull jorginho2708/postgres_bd:latest
