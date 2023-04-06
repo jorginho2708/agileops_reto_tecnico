@@ -15,7 +15,8 @@ https://github.com/jorginho2708/agileops_reto_tecnico
 •	Se ejecutara el reto tecnico a traves del bashero y automaticamente realizara lo siguiente:
 	Descargara las imagenes docker que se encuentran dentro de mi repositorio en dockerhub(
 backend -https://hub.docker.com/repository/docker/jorginho2708/backend_reto_tecnico
-nginx - https://hub.docker.com/repository/docker/jorginho2708/nginx_reto_tecnico -postgres - https://hub.docker.com/repository/docker/jorginho2708/postgres_bd)
+nginx - https://hub.docker.com/repository/docker/jorginho2708/nginx_reto_tecnico 
+postgres - https://hub.docker.com/repository/docker/jorginho2708/postgres_bd)
  
 	Se desplegaran las imagenes
 
