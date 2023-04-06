@@ -30,11 +30,11 @@ echo -n -e "--------------------------------------------------------------------
 sleep 30
 docker ps
 echo -n -e "------------------------------------------------------------------------------------------------------------------------------------------------------------\n"
-echo -e "Suma de 02 numeros mediante REST \n"
+echo -e "Suma de 02 numeros enteros mediante REST(tener en cuenta que no soporta decimales esta suma) \n"
 echo -n -e "------------------------------------- \n"
-echo -n "Ingresar el primer numero:  "
+echo -n "Ingresar el primer numero entero:  "
 read n1
-echo -n "Ingresar el segundo numero:  "
+echo -n "Ingresar el segundo numero entero:  "
 read n2
 echo -e "Resultado de la suma =  "
 echo $n1 + $n2 = $(($n1+$n2))
