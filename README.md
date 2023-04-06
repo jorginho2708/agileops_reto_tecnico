@@ -20,7 +20,4 @@ nginx - https://hub.docker.com/repository/docker/jorginho2708/nginx_reto_tecnico
 	Se desplegaran las imagenes
 
  
-	Se realizara la suma de 02 numeros a traves de rest, en la cual se tienen que poner los numeros.
- 
-
-
+	Se realizara la suma de 02 numeros a traves de rest solo soporta numero enteros no soporta decimales, en la cual se tienen que poner los numeros.
